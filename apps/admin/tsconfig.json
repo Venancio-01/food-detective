@@ -1,0 +1,6 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    // 这里可以添加或覆盖特定于管理后台的配置
+  }
+}
